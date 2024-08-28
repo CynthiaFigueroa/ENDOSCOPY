@@ -4,5 +4,5 @@ Endoscopes are the essential tools, allowing for minimally invasive procedures a
 
 This Excel file incorporates various advanced features and functions, including  IFERROR, dynamic arrays, drop-down lists, dynamic tables, and visual charts. These tools enable us to manage data effectively, minimize errors, and present insights in a clear and accessible manner.
 
-![Descripción de la imagen](https://raw.githubusercontent.com/CynthiaFigueroa/ENDOSCOPY/main/vista1.png/al/asset)
+![Descripción de la imagen](https://raw.githubusercontent.com/CynthiaFigueroa/ENDOSCOPY/main/C:\Users\User2019\Desktop\My portfolio\Endoscopy/al/asset)
 ![Descripción de la imagen](https://raw.githubusercontent.com/CynthiaFigueroa/ENDOSCOPY/main/vista2.png/al/asset)
