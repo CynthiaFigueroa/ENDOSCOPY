@@ -1,5 +1,8 @@
+Este proyecto nació como una iniciativa personal para comenzar a aplicar los conocimientos adquiridos en análisis de datos. Fue desarrollado a modo de práctica, de forma ad honorem, y con gran entusiasmo por tratarse de mi primer acercamiento a un proyecto del mundo real. Representa un punto de partida en mi camino profesional, donde pude transformar teoría en experiencia concreta, enfrentando desafíos reales y aprendiendo en el proceso.
+
 **(Nota: Este proyecto es solo un ejemplo, ya que por confidencialidad no se pueden mostrar los datos reales.
 Se utilizan estructuras y procesos representativos del análisis original.)**
+
 # **Objetivo**
 
 Identificar las causas de los gastos imprevistos en la sala de endoscopía.
