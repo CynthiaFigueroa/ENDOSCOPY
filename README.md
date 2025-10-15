@@ -1,3 +1,5 @@
+**(Nota: Este proyecto es solo un ejemplo, ya que por confidencialidad no se pueden mostrar los datos reales.
+Se utilizan estructuras y procesos representativos del análisis original.)**
 # **Objetivo**
 
 Identificar las causas de los gastos imprevistos en la sala de endoscopía.
